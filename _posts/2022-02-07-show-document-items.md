@@ -10,11 +10,4 @@ tags: editor items jumpbar
 
 <!--more-->
 
-1. Open a Swift file in the editor.
-2. Type the keyboard shortcut Control 6 to open the document items pop-up.
-3. Xcode opens a small pop-up in the jumpbar.
-4. Press arrow down key ...
-5. ... to select an item in the open document.
-6. Press return ...
-7. ... to jump to that item in the editor.
-
+The shortcut Control 6 opens the document items popup. Select an item using the arrow keys and the return key.

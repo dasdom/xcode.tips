@@ -7,3 +7,7 @@ tags: navigation editor
 ---
 
 ![](../../../assets/move_focus.jpeg)
+
+<!--more-->
+
+The shortcut command J lets you move the focus between editor spaces.
