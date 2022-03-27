@@ -2,11 +2,11 @@
 layout: post
 title:  "JumpBar: Fuzzy Search"
 date:   2022-03-03 21:33:00 +0100
-image: "../../../assets/jumpbar_fuzzy_search.jpeg"
+image: "../../../assets/20_jumpbar_fuzzy_search.jpg"
 tags: editor editing search jumpbar
 ---
 
-![](../../../assets/jumpbar_fuzzy_search.jpeg)
+![](../../../assets/20_jumpbar_fuzzy_search.jpg)
 
 <!--more-->
 

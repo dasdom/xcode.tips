@@ -2,11 +2,11 @@
 layout: post
 title:  "Search Documentation For Selected Text"
 date:   2022-03-23 22:11:00 +0100
-image: "../../../assets/search_documentation_for_selected_text.jpg"
+image: "../../../assets/30_search_documentation_for_selected_text.jpg"
 tags: documentation help
 ---
 
-![](../../../assets/search_documentation_for_selected_text.jpg)
+![](../../../assets/30_search_documentation_for_selected_text.jpg)
 
 <!--more-->
 

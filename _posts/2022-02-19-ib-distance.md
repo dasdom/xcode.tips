@@ -2,11 +2,11 @@
 layout: post
 title:  "Interface Builder: Distance"
 date:   2022-02-19 12:06:00 +0100
-image: "../../../assets/ib_distance.jpeg"
+image: "../../../assets/14_ib_distance.jpg"
 tags: interface-builder ib user-interface
 ---
 
-![](../../../assets/ib_distance.jpeg)
+![](../../../assets/14_ib_distance.jpg)
 
 <!--more-->
 

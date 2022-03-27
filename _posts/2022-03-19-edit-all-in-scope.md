@@ -2,11 +2,11 @@
 layout: post
 title:  "Edit All In Scope"
 date:   2022-03-19 22:30:00 +0100
-image: "../../../assets/edit_all_in_scope.jpg"
+image: "../../../assets/28_edit_all_in_scope.jpg"
 tags: editor editing multi-cursor
 ---
 
-![](../../../assets/edit_all_in_scope.jpg)
+![](../../../assets/28_edit_all_in_scope.jpg)
 
 <!--more-->
 

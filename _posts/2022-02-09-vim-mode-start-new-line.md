@@ -2,11 +2,11 @@
 layout: post
 title:  "Vim Mode: Start New Line"
 date:   2022-02-09 11:48:38 +0100
-image: "../../../assets/vim_mode_start_new_line.jpeg"
+image: "../../../assets/09_vim_mode_start_new_line.jpg"
 tags: editor editing vim-mode normal-mode line
 ---
 
-![](../../../assets/vim_mode_start_new_line.jpeg)
+![](../../../assets/09_vim_mode_start_new_line.jpg)
 
 <!--more-->
 

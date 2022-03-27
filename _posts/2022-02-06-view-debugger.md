@@ -2,11 +2,11 @@
 layout: post
 title:  "View Debugger"
 date:   2022-02-06 14:48:38 +0100
-image: "../../../assets/view_debugger.jpeg"
+image: "../../../assets/07_view_debugger.jpg"
 tags: debugging view
 ---
 
-![](../../../assets/view_debugger.jpeg)
+![](../../../assets/07_view_debugger.jpg)
 
 <!--more-->
 

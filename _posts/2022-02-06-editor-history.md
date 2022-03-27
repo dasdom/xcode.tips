@@ -2,11 +2,11 @@
 layout: post
 title:  "Editor History"
 date:   2022-02-06 12:48:38 +0100
-image: "../../../assets/editor_history.jpeg"
+image: "../../../assets/05_editor_history.jpg"
 tags: navigation editor
 ---
 
-![](../../../assets/editor_history.jpeg)
+![](../../../assets/05_editor_history.jpg)
 
 <!--more-->
 

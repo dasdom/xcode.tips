@@ -2,11 +2,11 @@
 layout: post
 title:  "Show Document Items"
 date:   2022-02-07 11:48:38 +0100
-image: "../../../assets/show_document_items.jpeg"
+image: "../../../assets/08_show_document_items.jpg"
 tags: editor items jumpbar
 ---
 
-![](../../../assets/show_document_items.jpeg)
+![](../../../assets/08_show_document_items.jpg)
 
 <!--more-->
 

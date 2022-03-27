@@ -2,11 +2,11 @@
 layout: post
 title:  "Choose Scheme"
 date:   2022-02-06 11:48:38 +0100
-image: "../../../assets/choose_scheme.jpeg"
+image: "../../../assets/04_choose_scheme.jpg"
 tags: navigation scheme
 ---
 
-![](../../../assets/choose_scheme.jpeg)
+![](../../../assets/04_choose_scheme.jpg)
 
 <!--more-->
 

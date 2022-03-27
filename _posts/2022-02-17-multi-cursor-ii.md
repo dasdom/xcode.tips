@@ -2,11 +2,11 @@
 layout: post
 title:  "Multi Cursor II"
 date:   2022-02-17 11:48:38 +0100
-image: "../../../assets/multi_cursor_ii.jpeg"
+image: "../../../assets/13_multi_cursor_ii.jpg"
 tags: multi-cursor editing editor mouse
 ---
 
-![](../../../assets/multi_cursor_ii.jpeg)
+![](../../../assets/13_multi_cursor_ii.jpg)
 
 <!--more-->
 

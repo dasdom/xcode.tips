@@ -2,11 +2,11 @@
 layout: post
 title:  "Print Current ViewController"
 date:   2022-03-11 21:19:00 +0100
-image: "../../../assets/print_current_view_controller.jpeg"
+image: "../../../assets/24_print_current_view_controller.jpg"
 tags: breakpoint trick view-controller lldb
 ---
 
-![](../../../assets/print_current_view_controller.jpeg)
+![](../../../assets/24_print_current_view_controller.jpg)
 
 <!--more-->
 

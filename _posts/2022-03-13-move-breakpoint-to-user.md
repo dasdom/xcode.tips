@@ -2,11 +2,11 @@
 layout: post
 title:  "Move Breakpoint To User"
 date:   2022-03-13 20:46:00 +0100
-image: "../../../assets/move_breakpoint_to_user.jpg"
+image: "../../../assets/25_move_breakpoint_to_user.jpg"
 tags: breakpoint trick lldb
 ---
 
-![](../../../assets/move_breakpoint_to_user.jpg)
+![](../../../assets/25_move_breakpoint_to_user.jpg)
 
 <!--more-->
 

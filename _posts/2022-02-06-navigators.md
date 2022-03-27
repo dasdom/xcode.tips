@@ -2,11 +2,11 @@
 layout: post
 title:  "Navigators"
 date:   2022-02-06 13:48:38 +0100
-image: "../../../assets/navigators.jpeg"
+image: "../../../assets/06_navigators.jpg"
 tags: navigation navigators
 ---
 
-![](../../../assets/navigators.jpeg)
+![](../../../assets/06_navigators.jpg)
 
 <!--more-->
 

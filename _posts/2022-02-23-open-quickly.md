@@ -2,11 +2,11 @@
 layout: post
 title:  "Open Quickly"
 date:   2022-02-23 18:30:00 +0100
-image: "../../../assets/open_quickly.jpeg"
+image: "../../../assets/16_open_quickly.jpg"
 tags: editor file search
 ---
 
-![](../../../assets/open_quickly.jpeg)
+![](../../../assets/16_open_quickly.jpg)
 
 <!--more-->
 

@@ -2,11 +2,11 @@
 layout: post
 title:  "Interface Builder: Views Unter Cursor"
 date:   2022-02-21 18:43:00 +0100
-image: "../../../assets/ib_views_under_cursor.jpeg"
+image: "../../../assets/15_ib_views_under_cursor.jpg"
 tags: interface-builder ib user-interface
 ---
 
-![](../../../assets/ib_views_under_cursor.jpeg)
+![](../../../assets/15_ib_views_under_cursor.jpg)
 
 <!--more-->
 

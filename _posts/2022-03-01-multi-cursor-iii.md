@@ -2,11 +2,11 @@
 layout: post
 title:  "Multi Cursor III"
 date:   2022-03-01 20:30:00 +0100
-image: "../../../assets/multi_cursor_iii.jpeg"
+image: "../../../assets/19_multi_cursor_iii.jpg"
 tags: multi-cursor editing editor drag selection
 ---
 
-![](../../../assets/multi_cursor_iii.jpeg)
+![](../../../assets/19_multi_cursor_iii.jpg)
 
 <!--more-->
 

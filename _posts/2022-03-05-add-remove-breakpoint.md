@@ -2,11 +2,11 @@
 layout: post
 title:  "Add/Remove Breakpoint"
 date:   2022-03-05 22:11:00 +0100
-image: "../../../assets/add_remove_breakpoint.jpeg"
+image: "../../../assets/21_add_remove_breakpoint.jpg"
 tags: editor debugging debug breakpoint lldb
 ---
 
-![](../../../assets/add_remove_breakpoint.jpeg)
+![](../../../assets/21_add_remove_breakpoint.jpg)
 
 <!--more-->
 

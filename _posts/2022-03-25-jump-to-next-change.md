@@ -2,11 +2,11 @@
 layout: post
 title:  "Jump To Next/Previous Change"
 date:   2022-03-25 17:27:00 +0100
-image: "../../../assets/jump_to_next_change.jpg"
+image: "../../../assets/31_jump_to_next_change.jpg"
 tags: editor navigation source-control
 ---
 
-![](../../../assets/jump_to_next_change.jpg)
+![](../../../assets/31_jump_to_next_change.jpg)
 
 <!--more-->
 

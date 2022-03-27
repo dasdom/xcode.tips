@@ -2,11 +2,11 @@
 layout: post
 title:  "New Editor"
 date:   2022-03-21 21:17:00 +0100
-image: "../../../assets/new_editor.jpg"
+image: "../../../assets/29_new_editor.jpg"
 tags: editor editing
 ---
 
-![](../../../assets/new_editor.jpg)
+![](../../../assets/29_new_editor.jpg)
 
 <!--more-->
 

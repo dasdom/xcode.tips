@@ -2,11 +2,11 @@
 layout: post
 title:  "Move Line Up/Down"
 date:   2022-02-05 12:48:38 +0100
-image: "../../../assets/move_line_up_down.jpeg"
+image: "../../../assets/02_move_line_up_down.jpg"
 tags: editor editing line
 ---
 
-![](../../../assets/move_line_up_down.jpeg)
+![](../../../assets/02_move_line_up_down.jpg)
 
 <!--more-->
 

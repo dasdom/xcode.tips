@@ -2,11 +2,11 @@
 layout: post
 title:  "Find Next/Previous"
 date:   2022-02-11 11:48:38 +0100
-image: "../../../assets/find_next_previous.jpeg"
+image: "../../../assets/10_find_next_previous.jpg"
 tags: editor search find jump
 ---
 
-![](../../../assets/find_next_previous.jpeg)
+![](../../../assets/10_find_next_previous.jpg)
 
 <!--more-->
 
