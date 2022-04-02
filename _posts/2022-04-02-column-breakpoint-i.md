@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Column Breakpoint I"
-date:   2022-04-02 14:13:00 +0000
+date:   2022-04-02 12:13:00 +0000
 image: "../../../assets/33_column_breakpoint_i.jpg"
 tags: debug debugging breakpoint column-breakpoint
 ---
