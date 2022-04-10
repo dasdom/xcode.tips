@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.27)  30 MAR 2022 22:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.27)  10 APR 2022 21:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -442,9 +442,34 @@ File: images/32_debug_gauges.jpg Graphic file (type jpg)
 <use images/32_debug_gauges.jpg>
 Package pdftex.def Info: images/32_debug_gauges.jpg  used on input line 58.
 (pdftex.def)             Requested size: 277.41438pt x 208.0551pt.
+<images/33_column_breakpoint_i.jpg, id=33, 2232.34pt x 1674.255pt>
+File: images/33_column_breakpoint_i.jpg Graphic file (type jpg)
+<use images/33_column_breakpoint_i.jpg>
+Package pdftex.def Info: images/33_column_breakpoint_i.jpg  used on input line 
+59.
+(pdftex.def)             Requested size: 277.41438pt x 208.0551pt.
+<images/34_deactivate_remove_column_breakpoint.jpg, id=34, 2232.34pt x 1674.255
+pt>
+File: images/34_deactivate_remove_column_breakpoint.jpg Graphic file (type jpg)
 
-Overfull \hbox (15.0222pt too wide) in paragraph at lines 57--59
-[][][][] [][][] 
+<use images/34_deactivate_remove_column_breakpoint.jpg>
+Package pdftex.def Info: images/34_deactivate_remove_column_breakpoint.jpg  use
+d on input line 60.
+(pdftex.def)             Requested size: 277.41438pt x 208.0551pt.
+<images/35_delete_to_end_of_line.jpg, id=35, 2232.34pt x 1674.255pt>
+File: images/35_delete_to_end_of_line.jpg Graphic file (type jpg)
+<use images/35_delete_to_end_of_line.jpg>
+Package pdftex.def Info: images/35_delete_to_end_of_line.jpg  used on input lin
+e 61.
+(pdftex.def)             Requested size: 277.41438pt x 208.0551pt.
+
+Overfull \hbox (15.0222pt too wide) in paragraph at lines 57--62
+[][][][] [][][]
+ []
+
+
+Overfull \hbox (15.0222pt too wide) in paragraph at lines 57--62
+[][][] [][][]
  []
 
 [1{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./ima
@@ -463,21 +488,22 @@ or_i.jpg>] [3 <./images/13_multi_cursor_ii.jpg> <./images/14_ib_distance.jpg> <
 igator.jpg> <./images/27_open_in_new_editor.jpg> <./images/28_edit_all_in_scope
 .jpg> <./images/29_new_editor.jpg> <./images/30_search_documentation_for_select
 ed_text.jpg>] [6 <./images/31_jump_to_next_change.jpg> <./images/32_debug_gauge
-s.jpg>] (./cards.aux) ) 
+s.jpg> <./images/33_column_breakpoint_i.jpg> <./images/34_deactivate_remove_col
+umn_breakpoint.jpg> <./images/35_delete_to_end_of_line.jpg>] (./cards.aux) ) 
 Here is how much of TeX's memory you used:
- 2798 strings out of 480608
- 49518 string characters out of 5903630
+ 2816 strings out of 480608
+ 50256 string characters out of 5903630
  296849 words of memory out of 5000000
- 18669 multiletter control sequences out of 15000+600000
+ 18684 multiletter control sequences out of 15000+600000
  532338 words of font info for 24 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  43i,7n,46p,316b,272s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2020/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmr10.pfb>
-Output written on cards.pdf (6 pages, 9794537 bytes).
+</u
+sr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on cards.pdf (6 pages, 10655715 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
+ 62 PDF objects out of 1000 (max. 8388607)
  17 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 161 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 176 words of extra memory for PDF output out of 10000 (max. 10000000)
 
