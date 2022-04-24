@@ -3,7 +3,7 @@ layout: post
 title:  "Fix All Issues"
 date:   2022-04-20 09:22:00 +0000
 image: "../../../assets/36_fix_all_issues.jpg"
-tags: editor editing delete
+tags: editor editing warnings issues errors fix-its
 ---
 
 ![](../../../assets/36_fix_all_issues.jpg)
