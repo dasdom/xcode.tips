@@ -39,4 +39,5 @@
 - [x] [Reveal In Changes Navigator #37](https://xcode.tips/reveal-in-changes-navigator/)
 - [ ] Fold Methods & Functions: option shift command left_arrow
 - [ ] IB: Guides: command _, control command |
-- [ ] Embed selected text     
+- [ ] Embed selected text
+- [ ] Find view in view debugger  
