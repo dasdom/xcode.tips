@@ -36,7 +36,8 @@
 - [x] [Deactivate/Remove Column Breakpoint #34](https://xcode.tips/deactivate-remove-column-breakpoint/)
 - [x] [Delete To End Of Line #35](https://xcode.tips/delete-to-end-of-line/)
 - [x] [Fix All Issues #36](https://xcode.tips/fix-all-issues/)
-- [ ] Reveal In Changes Navigator
+- [x] [Reveal In Changes Navigator #37](https://xcode.tips/reveal-in-changes-navigator/)
 - [ ] Fold Methods & Functions: option shift command left_arrow
 - [ ] IB: Guides: command _, control command |
-- [ ] Embed selected text     
+- [ ] Embed selected text
+- [ ] Find view in view debugger  
