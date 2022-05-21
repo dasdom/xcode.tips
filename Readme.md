@@ -37,7 +37,7 @@
 - [x] [Delete To End Of Line #35](https://xcode.tips/delete-to-end-of-line/)
 - [x] [Fix All Issues #36](https://xcode.tips/fix-all-issues/)
 - [x] [Reveal In Changes Navigator #37](https://xcode.tips/reveal-in-changes-navigator/)
-- [x] [Embed selected text](https://xcode.tips/embed-selected-text/)
+- [x] [Embed selected text #38](https://xcode.tips/embed-selected-text/)
 - [ ] Fold Methods & Functions: option shift command left_arrow
 - [ ] IB: Guides: command _, control command |
 - [ ] Find view in view debugger  
