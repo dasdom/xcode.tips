@@ -38,6 +38,6 @@
 - [x] [Fix All Issues #36](https://xcode.tips/fix-all-issues/)
 - [x] [Reveal In Changes Navigator #37](https://xcode.tips/reveal-in-changes-navigator/)
 - [x] [Embed selected text #38](https://xcode.tips/embed-selected-text/)
-- [ ] Fold Methods & Functions: option shift command left_arrow
+- [x] [Fold/Unfold #39](https://xcode.tips/fold-unfold/)
 - [ ] IB: Guides: command _, control command |
 - [ ] Find view in view debugger  
