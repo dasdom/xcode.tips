@@ -255,7 +255,7 @@ table {
 .grid-container {
   display: grid;
   grid-template-columns: auto auto;
-  grid-gap: 10px 10px;
+  grid-gap: 40px 40px;
 
   @include media-query($on-laptop) {
     grid-template-columns: auto;
@@ -274,3 +274,23 @@ ul.tag_list_in_post {
   margin: 0;
   padding: 0;
 }
+
+/*
+@media (prefers-color-scheme: dark) {
+    img {
+        -webkit-filter: invert(90%);
+        filter: invert(90%);
+    }
+
+    body {
+      color: $light-text-color;
+      background-color: $dark-background-color;
+    }
+
+    a {
+        &:hover {
+            color: $light-text-color;
+        }
+    }
+}
+*/
