@@ -39,5 +39,6 @@
 - [x] [Reveal In Changes Navigator #37](https://xcode.tips/reveal-in-changes-navigator/)
 - [x] [Embed selected text #38](https://xcode.tips/embed-selected-text/)
 - [x] [Fold/Unfold #39](https://xcode.tips/fold-unfold/)
-- [ ] IB: Guides: command _, control command |
-- [ ] Find view in view debugger  
+- [x] [Interface Builder: Guides #40](https://xcode.tips/ib-guides/)
+- [ ] Find view in view debugger
+- [ ] Rename Window Tab: Option Shift Command T
