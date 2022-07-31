@@ -42,3 +42,5 @@
 - [x] [Interface Builder: Guides #40](https://xcode.tips/ib-guides/)
 - [ ] Find view in view debugger
 - [ ] Rename Window Tab: Option Shift Command T
+- [ ] Search scopes
+- [ ] Open HIG
