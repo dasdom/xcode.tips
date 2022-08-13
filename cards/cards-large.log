@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.27)  10 APR 2022 21:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.27)  4 JUN 2022 09:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -472,6 +472,48 @@ File: images/35_delete_to_end_of_line.jpg Graphic file (type jpg)
 Package pdftex.def Info: images/35_delete_to_end_of_line.jpg  used on input lin
 e 97.
 (pdftex.def)             Requested size: 500.05559pt x 375.03056pt.
+<images/36_fix_all_issues.jpg, id=36, 2232.34pt x 1674.255pt>
+File: images/36_fix_all_issues.jpg Graphic file (type jpg)
+<use images/36_fix_all_issues.jpg>
+Package pdftex.def Info: images/36_fix_all_issues.jpg  used on input line 98.
+(pdftex.def)             Requested size: 500.05559pt x 375.03056pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--99
+[][][][]
+ []
+
+<images/37_reveal_in_changes_navigator.jpg, id=37, 2232.34pt x 1674.255pt>
+File: images/37_reveal_in_changes_navigator.jpg Graphic file (type jpg)
+<use images/37_reveal_in_changes_navigator.jpg>
+Package pdftex.def Info: images/37_reveal_in_changes_navigator.jpg  used on inp
+ut line 102.
+(pdftex.def)             Requested size: 500.05559pt x 375.03056pt.
+<images/38_embed_selected_text.jpg, id=38, 2232.34pt x 1674.255pt>
+File: images/38_embed_selected_text.jpg Graphic file (type jpg)
+<use images/38_embed_selected_text.jpg>
+Package pdftex.def Info: images/38_embed_selected_text.jpg  used on input line 
+103.
+(pdftex.def)             Requested size: 500.05559pt x 375.03056pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--104
+[][][][]
+ []
+
+<images/39_fold_unfold.jpg, id=39, 2232.34pt x 1674.255pt>
+File: images/39_fold_unfold.jpg Graphic file (type jpg)
+<use images/39_fold_unfold.jpg>
+Package pdftex.def Info: images/39_fold_unfold.jpg  used on input line 107.
+(pdftex.def)             Requested size: 500.05559pt x 375.03056pt.
+<images/40_ib_guides.jpg, id=40, 2232.34pt x 1674.255pt>
+File: images/40_ib_guides.jpg Graphic file (type jpg)
+<use images/40_ib_guides.jpg>
+Package pdftex.def Info: images/40_ib_guides.jpg  used on input line 108.
+(pdftex.def)             Requested size: 500.05559pt x 375.03056pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--109
+[][][][]
+ []
+
 [1{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./ima
 ges/01_move_focus.jpg> <./images/02_move_line_up_down.jpg>] [2 <./images/03_run
 _stop.jpg> <./images/04_choose_scheme.jpg>] [3 <./images/05_editor_history.jpg>
@@ -490,21 +532,24 @@ es/26_reveal_in_project_navigator.jpg>] [14 <./images/27_open_in_new_editor.jpg
 es/30_search_documentation_for_selected_text.jpg>] [16 <./images/31_jump_to_nex
 t_change.jpg> <./images/32_debug_gauges.jpg>] [17 <./images/33_column_breakpoin
 t_i.jpg> <./images/34_deactivate_remove_column_breakpoint.jpg>] [18 <./images/3
-5_delete_to_end_of_line.jpg>] (./cards-large.aux) ) 
+5_delete_to_end_of_line.jpg> <./images/36_fix_all_issues.jpg>] [19 <./images/37
+_reveal_in_changes_navigator.jpg> <./images/38_embed_selected_text.jpg>]
+[20 <./images/39_fold_unfold.jpg> <./images/40_ib_guides.jpg>]
+(./cards-large.aux) ) 
 Here is how much of TeX's memory you used:
- 2816 strings out of 480608
- 50316 string characters out of 5903630
- 297859 words of memory out of 5000000
- 18684 multiletter control sequences out of 15000+600000
+ 2846 strings out of 480608
+ 51276 string characters out of 5903630
+ 299859 words of memory out of 5000000
+ 18709 multiletter control sequences out of 15000+600000
  532338 words of font info for 24 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  43i,7n,46p,322b,272s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2020/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on cards-large.pdf (18 pages, 10660848 bytes).
+</usr/local/texlive/2020/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr10.pfb>
+Output written on cards-large.pdf (20 pages, 12103253 bytes).
 PDF statistics:
- 101 PDF objects out of 1000 (max. 8388607)
- 44 compressed objects within 1 object stream
+ 113 PDF objects out of 1000 (max. 8388607)
+ 49 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 176 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 201 words of extra memory for PDF output out of 10000 (max. 10000000)
 
