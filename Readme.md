@@ -40,7 +40,7 @@
 - [x] [Embed selected text #38](https://xcode.tips/embed-selected-text/)
 - [x] [Fold/Unfold #39](https://xcode.tips/fold-unfold/)
 - [x] [Interface Builder: Guides #40](https://xcode.tips/ib-guides/)
+- [x] [Rename Window Tab: Option Shift Command T](https://xcode.tips/create-rename-window-tab/)
 - [ ] Find view in view debugger
-- [ ] Rename Window Tab: Option Shift Command T
 - [ ] Search scopes
 - [ ] Open HIG
