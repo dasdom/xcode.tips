@@ -41,6 +41,9 @@
 - [x] [Fold/Unfold #39](https://xcode.tips/fold-unfold/)
 - [x] [Interface Builder: Guides #40](https://xcode.tips/ib-guides/)
 - [x] [Rename Window Tab: Option Shift Command T](https://xcode.tips/create-rename-window-tab/)
+- [ ] Toggle dark mode in simulator (Cmd + Shift + A)
+- [ ] Repead tests (https://twitter.com/SteveBarnegren/status/1570022044347281408?s=20&t=OVA9lr2AFIxscRCnWK0ztg)
+- [ ] Increase/Decrease dynamic type (https://twitter.com/ricobeck/status/1570335052604522496?s=20&t=OVA9lr2AFIxscRCnWK0ztg)
 - [ ] Find view in view debugger
 - [ ] Search scopes
 - [ ] Open HIG
