@@ -4,5 +4,3 @@
 
 layout: home
 ---
-
-<a rel="me" href="https://chaos.social/@dasdom">Mastodon</a>

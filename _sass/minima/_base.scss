@@ -254,11 +254,11 @@ table {
 
 .grid-container {
   display: grid;
-  grid-template-columns: auto auto;
+  grid-template-columns: auto auto auto auto;
   grid-gap: 40px 40px;
 
   @include media-query($on-laptop) {
-    grid-template-columns: auto;
+    grid-template-columns: auto auto;
   }
 }
 

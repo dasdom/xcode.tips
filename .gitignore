@@ -3,3 +3,10 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+.DS_Store
+*.mov
+*.mp4
+*.wav
+*.m4a
+*.band
+
