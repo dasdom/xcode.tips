@@ -47,3 +47,4 @@
 - [ ] Find view in view debugger
 - [ ] Search scopes
 - [ ] Open HIG
+- [ ] Previous/Next Window Tab
