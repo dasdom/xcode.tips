@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.27)  4 JUN 2022 09:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.27)  10 DEC 2022 11:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -504,14 +504,48 @@ File: images/40_ib_guides.jpg Graphic file (type jpg)
 <use images/40_ib_guides.jpg>
 Package pdftex.def Info: images/40_ib_guides.jpg  used on input line 69.
 (pdftex.def)             Requested size: 277.41438pt x 208.0551pt.
+<images/41_create_rename_window_tab.jpg, id=41, 2232.34pt x 1674.255pt>
+File: images/41_create_rename_window_tab.jpg Graphic file (type jpg)
+<use images/41_create_rename_window_tab.jpg>
+Package pdftex.def Info: images/41_create_rename_window_tab.jpg  used on input 
+line 70.
+(pdftex.def)             Requested size: 277.41438pt x 208.0551pt.
+<images/42_simulator_toggle_dark_mode.jpg, id=42, 2232.34pt x 1674.255pt>
+File: images/42_simulator_toggle_dark_mode.jpg Graphic file (type jpg)
+<use images/42_simulator_toggle_dark_mode.jpg>
+Package pdftex.def Info: images/42_simulator_toggle_dark_mode.jpg  used on inpu
+t line 71.
+(pdftex.def)             Requested size: 277.41438pt x 208.0551pt.
 
-Overfull \hbox (15.0222pt too wide) in paragraph at lines 66--70
+Overfull \hbox (15.0222pt too wide) in paragraph at lines 66--72
 [][][][] [][][]
  []
 
 
-Overfull \hbox (15.0222pt too wide) in paragraph at lines 66--70
+Overfull \hbox (15.0222pt too wide) in paragraph at lines 66--72
+[][][] [][][]
+ []
+
+
+Overfull \hbox (15.0222pt too wide) in paragraph at lines 66--72
 [][][] [][][] 
+ []
+
+<images/43_toggle_changes_repos.jpg, id=43, 2232.34pt x 1674.255pt>
+File: images/43_toggle_changes_repos.jpg Graphic file (type jpg)
+<use images/43_toggle_changes_repos.jpg>
+Package pdftex.def Info: images/43_toggle_changes_repos.jpg  used on input line
+ 75.
+(pdftex.def)             Requested size: 277.41438pt x 208.0551pt.
+<images/44_improve_debug_output.jpg, id=44, 2232.34pt x 1674.255pt>
+File: images/44_improve_debug_output.jpg Graphic file (type jpg)
+<use images/44_improve_debug_output.jpg>
+Package pdftex.def Info: images/44_improve_debug_output.jpg  used on input line
+ 76.
+(pdftex.def)             Requested size: 277.41438pt x 208.0551pt.
+
+Overfull \hbox (15.0222pt too wide) in paragraph at lines 75--77
+[][][][] [][][] 
  []
 
 [1{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./ima
@@ -534,21 +568,23 @@ s.jpg> <./images/33_column_breakpoint_i.jpg> <./images/34_deactivate_remove_col
 umn_breakpoint.jpg> <./images/35_delete_to_end_of_line.jpg> <./images/36_fix_al
 l_issues.jpg>] [7 <./images/37_reveal_in_changes_navigator.jpg> <./images/38_em
 bed_selected_text.jpg> <./images/39_fold_unfold.jpg> <./images/40_ib_guides.jpg
->] (./cards.aux) ) 
+> <./images/41_create_rename_window_tab.jpg> <./images/42_simulator_toggle_dark
+_mode.jpg>] [8 <./images/43_toggle_changes_repos.jpg> <./images/44_improve_debu
+g_output.jpg>] (./cards.aux) ) 
 Here is how much of TeX's memory you used:
- 2846 strings out of 480608
- 51216 string characters out of 5903630
- 298849 words of memory out of 5000000
- 18709 multiletter control sequences out of 15000+600000
+ 2870 strings out of 480608
+ 52140 string characters out of 5903630
+ 299849 words of memory out of 5000000
+ 18729 multiletter control sequences out of 15000+600000
  532338 words of font info for 24 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  43i,7n,46p,316b,272s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr10.pfb>
-Output written on cards.pdf (7 pages, 12097896 bytes).
+</usr/local/texlive/2020/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr10.pfb>
+Output written on cards.pdf (8 pages, 13320804 bytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
- 21 compressed objects within 1 object stream
+ 79 PDF objects out of 1000 (max. 8388607)
+ 23 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 201 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 221 words of extra memory for PDF output out of 10000 (max. 10000000)
 
