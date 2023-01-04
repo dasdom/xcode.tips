@@ -67,3 +67,4 @@
 - [ ] Vim Mode: Find In Line
 - [ ] Environment Overrides
 - [ ] Simulator: Slow Animations
+- [ ] Behavior: Show Build Log
