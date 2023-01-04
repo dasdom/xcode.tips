@@ -57,3 +57,7 @@
 - [ ] Previous/Next Window Tab
 - [ ] Issues: Show Only Errors
 - [ ] Custom File Header (https://oleb.net/blog/2017/07/xcode-9-text-macros/)
+- [ ] Additional Tools For Xcode: Pixie
+- [ ] Find In Project (Cmd + Shift + F)
+- [ ] Behavior: Open Search Tap
+- [ ] Vim Mode: Step Navigation
