@@ -55,3 +55,4 @@
 - [ ] Search scopes
 - [ ] Open HIG
 - [ ] Previous/Next Window Tab
+- [ ] Issues: Show Only Errors
