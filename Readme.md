@@ -68,3 +68,8 @@
 - [ ] Environment Overrides
 - [ ] Simulator: Slow Animations
 - [ ] Behavior: Show Build Log
+- [ ] Quick Look In Debugger
+- [ ] Asset-Catalog: Device Differences
+- [ ] Snippet Library
+- [ ] Action Menu
+- [ ] Scheme Options: Non-Localized Strings
