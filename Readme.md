@@ -56,3 +56,4 @@
 - [ ] Open HIG
 - [ ] Previous/Next Window Tab
 - [ ] Issues: Show Only Errors
+- [ ] Custom File Header (https://oleb.net/blog/2017/07/xcode-9-text-macros/)
