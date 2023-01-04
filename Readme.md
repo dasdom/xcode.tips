@@ -61,3 +61,5 @@
 - [ ] Find In Project (Cmd + Shift + F)
 - [ ] Behavior: Open Search Tap
 - [ ] Vim Mode: Step Navigation
+- [ ] Find Call Hierachy
+- [ ] Find/Replace Regular Expression
