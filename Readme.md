@@ -66,3 +66,4 @@
 - [ ] Vim Mode: Find Current Word
 - [ ] Vim Mode: Find In Line
 - [ ] Environment Overrides
+- [ ] Simulator: Slow Animations
