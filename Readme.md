@@ -63,3 +63,4 @@
 - [ ] Vim Mode: Step Navigation
 - [ ] Find Call Hierachy
 - [ ] Find/Replace Regular Expression
+- [ ] Vim Mode: Find Current Word
