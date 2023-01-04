@@ -64,3 +64,4 @@
 - [ ] Find Call Hierachy
 - [ ] Find/Replace Regular Expression
 - [ ] Vim Mode: Find Current Word
+- [ ] Vim Mode: Find In Line
