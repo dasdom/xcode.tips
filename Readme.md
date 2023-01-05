@@ -45,7 +45,7 @@
 - [x] [Toggle Changes/Repos #43](https://xcode.tips/toggle-changes-repos/)
 - [x] [Improve Debug Output #44](https://xcode.tips/improve-debug-output/)
 - [x] [Find problematic constraint #45](https://xcode.tips/find-problematic-constraint/)
-- [ ] Library: SFSymbols #46
+- [x] [Library: SFSymbols #46](https://xcode.tips/library-sfsymbols/)
 - [ ] Simulator: Add Images #47
 - [ ] Simulator: Regord GIF
 - [ ] IB: Toggle Mini Map (Ctrl + Shift + Cmd + M)
