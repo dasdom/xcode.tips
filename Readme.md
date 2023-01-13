@@ -46,8 +46,9 @@
 - [x] [Improve Debug Output #44](https://xcode.tips/improve-debug-output/)
 - [x] [Find problematic constraint #45](https://xcode.tips/find-problematic-constraint/)
 - [x] [Library: SFSymbols #46](https://xcode.tips/library-sfsymbols/)
-- [ ] Simulator: Add Images #47
-- [ ] Open HIG
+- [x] [Simulator: Add Images #47](https://xcode.tips/simulator-add-images/)
+- [ ] Open HIG #48
+- [ ] Scheme Options: Non-Localized Strings #49
 - [ ] Simulator: Regord GIF
 - [ ] IB: Toggle Mini Map (Ctrl + Shift + Cmd + M)
 - [ ] IB: Layout Rectangles
@@ -72,4 +73,3 @@
 - [ ] Asset-Catalog: Device Differences
 - [ ] Snippet Library
 - [ ] Action Menu
-- [ ] Scheme Options: Non-Localized Strings
