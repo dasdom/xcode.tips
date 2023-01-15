@@ -49,7 +49,7 @@
 - [x] [Simulator: Add Images #47](https://xcode.tips/simulator-add-images/)
 - [ ] Open HIG #48
 - [ ] Scheme Options: Non-Localized Strings #49
-- [ ] Simulator: Regord GIF
+- [ ] Simulator: Record GIF
 - [ ] IB: Toggle Mini Map (Ctrl + Shift + Cmd + M)
 - [ ] IB: Layout Rectangles
 - [ ] Repead tests (https://twitter.com/SteveBarnegren/status/1570022044347281408?s=20&t=OVA9lr2AFIxscRCnWK0ztg)
