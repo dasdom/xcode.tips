@@ -47,9 +47,9 @@
 - [x] [Find problematic constraint #45](https://xcode.tips/find-problematic-constraint/)
 - [x] [Library: SFSymbols #46](https://xcode.tips/library-sfsymbols/)
 - [x] [Simulator: Add Images #47](https://xcode.tips/simulator-add-images/)
-- [ ] Open HIG #48
+- [x] [Open HIG #48](https://xcode.tips/open-hig/)
 - [ ] Scheme Options: Non-Localized Strings #49
-- [ ] Simulator: Record GIF
+- [ ] Simulator: Record GIF #50
 - [ ] IB: Toggle Mini Map (Ctrl + Shift + Cmd + M)
 - [ ] IB: Layout Rectangles
 - [ ] Repead tests (https://twitter.com/SteveBarnegren/status/1570022044347281408?s=20&t=OVA9lr2AFIxscRCnWK0ztg)
