@@ -48,10 +48,10 @@
 - [x] [Library: SFSymbols #46](https://xcode.tips/library-sfsymbols/)
 - [x] [Simulator: Add Images #47](https://xcode.tips/simulator-add-images/)
 - [x] [Open HIG #48](https://xcode.tips/open-hig/)
-- [ ] Scheme Options: Non-Localized Strings #49
-- [ ] Simulator: Record GIF #50
+- [x] [Scheme Options: Non-Localized Strings #49](https://xcode.tips/show-non-localized-strings/)
+- [x] [Simulator: Record GIF #50](https://xcode.tips/simulator-save-as-gif/)
+- [ ] IB: Layout Rectangles #51
 - [ ] IB: Toggle Mini Map (Ctrl + Shift + Cmd + M)
-- [ ] IB: Layout Rectangles
 - [ ] Repead tests (https://twitter.com/SteveBarnegren/status/1570022044347281408?s=20&t=OVA9lr2AFIxscRCnWK0ztg)
 - [ ] Increase/Decrease dynamic type (https://twitter.com/ricobeck/status/1570335052604522496?s=20&t=OVA9lr2AFIxscRCnWK0ztg)
 - [ ] Search scopes
