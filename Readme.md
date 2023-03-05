@@ -51,6 +51,7 @@
 - [x] [Scheme Options: Non-Localized Strings #49](https://xcode.tips/show-non-localized-strings/)
 - [x] [Simulator: Record GIF #50](https://xcode.tips/simulator-save-as-gif/)
 - [ ] IB: Layout Rectangles #51
+- [ ] Additional Tools For Xcode: Pixie #52
 - [ ] IB: Toggle Mini Map (Ctrl + Shift + Cmd + M)
 - [ ] Repead tests (https://twitter.com/SteveBarnegren/status/1570022044347281408?s=20&t=OVA9lr2AFIxscRCnWK0ztg)
 - [ ] Increase/Decrease dynamic type (https://twitter.com/ricobeck/status/1570335052604522496?s=20&t=OVA9lr2AFIxscRCnWK0ztg)
@@ -58,7 +59,6 @@
 - [ ] Previous/Next Window Tab
 - [ ] Issues: Show Only Errors
 - [ ] Custom File Header (https://oleb.net/blog/2017/07/xcode-9-text-macros/)
-- [ ] Additional Tools For Xcode: Pixie
 - [ ] Find In Project (Cmd + Shift + F)
 - [ ] Behavior: Open Search Tap
 - [ ] Vim Mode: Step Navigation
