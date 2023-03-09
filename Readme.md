@@ -50,7 +50,7 @@
 - [x] [Open HIG #48](https://xcode.tips/open-hig/)
 - [x] [Scheme Options: Non-Localized Strings #49](https://xcode.tips/show-non-localized-strings/)
 - [x] [Simulator: Record GIF #50](https://xcode.tips/simulator-save-as-gif/)
-- [ ] IB: Layout Rectangles #51
+- [x] [IB: Layout Rectangles #51](https://xcode.tips/ib-bounds-rectangles/)
 - [ ] Additional Tools For Xcode: Pixie #52
 - [ ] IB: Toggle Mini Map (Ctrl + Shift + Cmd + M)
 - [ ] Repead tests (https://twitter.com/SteveBarnegren/status/1570022044347281408?s=20&t=OVA9lr2AFIxscRCnWK0ztg)
