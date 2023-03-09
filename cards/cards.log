@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.27)  10 DEC 2022 11:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.27)  14 FEB 2023 17:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -543,11 +543,52 @@ File: images/44_improve_debug_output.jpg Graphic file (type jpg)
 Package pdftex.def Info: images/44_improve_debug_output.jpg  used on input line
  76.
 (pdftex.def)             Requested size: 277.41438pt x 208.0551pt.
+<images/45_find_problematic_constraint.jpg, id=45, 2232.34pt x 1674.255pt>
+File: images/45_find_problematic_constraint.jpg Graphic file (type jpg)
+<use images/45_find_problematic_constraint.jpg>
+Package pdftex.def Info: images/45_find_problematic_constraint.jpg  used on inp
+ut line 77.
+(pdftex.def)             Requested size: 277.41438pt x 208.0551pt.
+<images/46_library_sfsymbols.jpg, id=46, 2232.34pt x 1674.255pt>
+File: images/46_library_sfsymbols.jpg Graphic file (type jpg)
+<use images/46_library_sfsymbols.jpg>
+Package pdftex.def Info: images/46_library_sfsymbols.jpg  used on input line 78
+.
+(pdftex.def)             Requested size: 277.41438pt x 208.0551pt.
+<images/47_simulator_add_images.jpg, id=47, 1907.125pt x 1430.34375pt>
+File: images/47_simulator_add_images.jpg Graphic file (type jpg)
+<use images/47_simulator_add_images.jpg>
+Package pdftex.def Info: images/47_simulator_add_images.jpg  used on input line
+ 79.
+(pdftex.def)             Requested size: 277.41438pt x 208.0602pt.
+<images/48_open_hig.jpg, id=48, 1907.125pt x 1430.34375pt>
+File: images/48_open_hig.jpg Graphic file (type jpg)
+<use images/48_open_hig.jpg>
+Package pdftex.def Info: images/48_open_hig.jpg  used on input line 80.
+(pdftex.def)             Requested size: 277.41438pt x 208.0602pt.
 
-Overfull \hbox (15.0222pt too wide) in paragraph at lines 75--77
-[][][][] [][][] 
+Overfull \hbox (15.0222pt too wide) in paragraph at lines 75--81
+[][][][] [][][]
  []
 
+
+Overfull \hbox (15.0222pt too wide) in paragraph at lines 75--81
+[][][] [][][]
+ []
+
+
+Overfull \hbox (15.0222pt too wide) in paragraph at lines 75--81
+[][][] [][][] 
+ []
+
+<images/49_scheme_options_show_non_localized_strings.jpg, id=49, 1907.125pt x 1
+430.34375pt>
+File: images/49_scheme_options_show_non_localized_strings.jpg Graphic file (typ
+e jpg)
+<use images/49_scheme_options_show_non_localized_strings.jpg>
+Package pdftex.def Info: images/49_scheme_options_show_non_localized_strings.jp
+g  used on input line 84.
+(pdftex.def)             Requested size: 277.41438pt x 208.0602pt.
 [1{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./ima
 ges/01_move_focus.jpg> <./images/02_move_line_up_down.jpg> <./images/03_run_sto
 p.jpg> <./images/04_choose_scheme.jpg> <./images/05_editor_history.jpg> <./imag
@@ -570,21 +611,24 @@ l_issues.jpg>] [7 <./images/37_reveal_in_changes_navigator.jpg> <./images/38_em
 bed_selected_text.jpg> <./images/39_fold_unfold.jpg> <./images/40_ib_guides.jpg
 > <./images/41_create_rename_window_tab.jpg> <./images/42_simulator_toggle_dark
 _mode.jpg>] [8 <./images/43_toggle_changes_repos.jpg> <./images/44_improve_debu
-g_output.jpg>] (./cards.aux) ) 
+g_output.jpg> <./images/45_find_problematic_constraint.jpg> <./images/46_librar
+y_sfsymbols.jpg> <./images/47_simulator_add_images.jpg> <./images/48_open_hig.j
+pg>] [9 <./images/49_scheme_options_show_non_localized_strings.jpg>]
+(./cards.aux) ) 
 Here is how much of TeX's memory you used:
- 2870 strings out of 480608
- 52140 string characters out of 5903630
- 299849 words of memory out of 5000000
- 18729 multiletter control sequences out of 15000+600000
+ 2900 strings out of 480608
+ 53298 string characters out of 5903630
+ 300849 words of memory out of 5000000
+ 18754 multiletter control sequences out of 15000+600000
  532338 words of font info for 24 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  43i,7n,46p,316b,272s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2020/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmr10.pfb>
-Output written on cards.pdf (8 pages, 13320804 bytes).
+</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr10.pfb>
+Output written on cards.pdf (9 pages, 14849666 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
- 23 compressed objects within 1 object stream
+ 87 PDF objects out of 1000 (max. 8388607)
+ 25 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 221 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 246 words of extra memory for PDF output out of 10000 (max. 10000000)
 
