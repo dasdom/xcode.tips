@@ -51,7 +51,8 @@
 - [x] [Scheme Options: Non-Localized Strings #49](https://xcode.tips/show-non-localized-strings/)
 - [x] [Simulator: Record GIF #50](https://xcode.tips/simulator-save-as-gif/)
 - [x] [IB: Layout Rectangles #51](https://xcode.tips/ib-bounds-rectangles/)
-- [ ] Additional Tools For Xcode: Pixie #52
+- [x] [Additional Tools For Xcode: Pixie #52](https://xcode.tips/additional-tools-pixie/)
+- [ ] Vim Mode: Find Current Word #53
 - [ ] IB: Toggle Mini Map (Ctrl + Shift + Cmd + M)
 - [ ] Repead tests (https://twitter.com/SteveBarnegren/status/1570022044347281408?s=20&t=OVA9lr2AFIxscRCnWK0ztg)
 - [ ] Increase/Decrease dynamic type (https://twitter.com/ricobeck/status/1570335052604522496?s=20&t=OVA9lr2AFIxscRCnWK0ztg)
@@ -64,7 +65,6 @@
 - [ ] Vim Mode: Step Navigation
 - [ ] Find Call Hierachy
 - [ ] Find/Replace Regular Expression
-- [ ] Vim Mode: Find Current Word
 - [ ] Vim Mode: Find In Line
 - [ ] Environment Overrides
 - [ ] Simulator: Slow Animations
