@@ -55,10 +55,10 @@
 - [x] [Vim Mode: Find Current Word #53](https://xcode.tips/vim-mode-find-current-word/)
 - [x] [Search Scopes #54](https://xcode.tips/search-scopes/)
 - [ ] Add Errors/Warnings #55
+- [ ] Increase/Decrease dynamic type (CMD + Option +/-) (https://twitter.com/ricobeck/status/1570335052604522496?s=20&t=OVA9lr2AFIxscRCnWK0ztg)
 - [ ] Vim Mode: Move Page Up/Down (Shift + Arrow Up/Down)
-- [ ] IB: Toggle Mini Map (Ctrl + Shift + Cmd + M)
+- [ ] IB: Toggle Mini Map (Ctrl Shift + Cmd + M)
 - [ ] Repead tests (https://twitter.com/SteveBarnegren/status/1570022044347281408?s=20&t=OVA9lr2AFIxscRCnWK0ztg)
-- [ ] Increase/Decrease dynamic type (https://twitter.com/ricobeck/status/1570335052604522496?s=20&t=OVA9lr2AFIxscRCnWK0ztg)
 - [ ] Previous/Next Window Tab
 - [ ] Issues: Show Only Errors
 - [ ] Custom File Header (https://oleb.net/blog/2017/07/xcode-9-text-macros/)
