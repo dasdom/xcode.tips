@@ -46,7 +46,7 @@
 - [x] [Improve Debug Output #44](https://xcode.tips/improve-debug-output/)
 - [x] [Find problematic constraint #45](https://xcode.tips/find-problematic-constraint/)
 - [x] [Library: SFSymbols #46](https://xcode.tips/library-sfsymbols/)
-- [x] [Simulator: Add Images #47](https://xcode.tips/simulator-add-images/)
+- [x] [Simulator: A     dd Images #47](https://xcode.tips/simulator-add-images/)
 - [x] [Open HIG #48](https://xcode.tips/open-hig/)
 - [x] [Scheme Options: Non-Localized Strings #49](https://xcode.tips/show-non-localized-strings/)
 - [x] [Simulator: Record GIF #50](https://xcode.tips/simulator-save-as-gif/)
