@@ -11,3 +11,5 @@ tags: simulator video save gif
 <!--more-->
 
 After recording a video with the simulator, hold down the Control key while clicking the small preview. The simulator opens a menu. Select "Save as Animated GIF".
+
+Featured in [SwiftlyRush Weekly 62](https://swiftlyrush.curated.co/issues/62).

@@ -12,3 +12,5 @@ tags: editor editing fold unfold overview
 
 Position the cursor in a scope and use the shortcut Option Command Arrow Left to fold that scope. To
 unfold use the shortcut Option Command Arrow Right.
+
+Featured in [SwiftlyRush Weekly 25](https://swiftlyrush.curated.co/issues/25).

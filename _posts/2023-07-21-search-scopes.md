@@ -12,3 +12,5 @@ tags: find search
 
 While searching within a project you can click the search scope and then add your own search
 scopes.
+
+Featured in [iOS Dev Weekly 621](https://iosdevweekly.com/issues/621?m=web&sid=yaBa0Tu#Z3eGdtG).

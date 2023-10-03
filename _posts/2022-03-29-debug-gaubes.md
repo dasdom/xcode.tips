@@ -12,3 +12,5 @@ tags: debug instruments debugging
 
 When the app is running, select the different Debug Gauges to see visual representation of CPU,
 memory and disk usage.
+
+Featured in [SwiftlyRush Weekly 17](https://swiftlyrush.curated.co/issues/17).

@@ -12,3 +12,5 @@ tags: debugging simulator dark-mode
 
 While your app is running in the simulator use the shortcut Command Shift A to toggle between light and dark
 mode. Thank you [@treb0c](https://twitter.com/treb0c) for this tip!
+
+Featured in [SwiftlyRush Weekly 45](https://swiftlyrush.curated.co/issues/45).

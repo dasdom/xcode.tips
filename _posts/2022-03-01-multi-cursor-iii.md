@@ -12,3 +12,5 @@ tags: multi-cursor editing editor drag selection
 
 Hold down the Option key while dragging a part of you code. Xcode selects the code and allows you to
 change all selected lines at once.
+
+Features in [SwiftlyRush Weekly 13](https://swiftlyrush.curated.co/issues/13).

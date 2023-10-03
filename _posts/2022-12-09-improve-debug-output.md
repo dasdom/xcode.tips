@@ -11,3 +11,5 @@ tags: navigators navigation
 <!--more-->
 
 Change the font color of Debugger Console Output at Xcode > Settings > Themes > Console to make ouput from breakpoints stand out in the debugger console.
+
+Featured in [iOS Dev Weekly 589](https://iosdevweekly.com/issues/589?m=web&#IZ9DExv).
