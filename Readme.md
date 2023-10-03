@@ -56,7 +56,8 @@
 - [x] [Search Scopes #54](https://xcode.tips/search-scopes/)
 - [ ] Add Errors/Warnings #55
 - [ ] Increase/Decrease dynamic type (CMD + Option +/-) #56 (https://twitter.com/ricobeck/status/1570335052604522496?s=20&t=OVA9lr2AFIxscRCnWK0ztg)
-- [ ] Find Ancestor Types (in Find menu)
+- [ ] Xcode 15: Find Ancestor Types (in Find menu)
+- [ ] Xcode 15: Find Conforming Types (in Find menu)
 - [ ] Vim Mode: Move Page Up/Down (Shift + Arrow Up/Down)
 - [ ] IB: Toggle Mini Map (Ctrl Shift + Cmd + M)
 - [ ] Repead tests (https://twitter.com/SteveBarnegren/status/1570022044347281408?s=20&t=OVA9lr2AFIxscRCnWK0ztg)
