@@ -54,16 +54,17 @@
 - [x] [Additional Tools For Xcode: Pixie #52](https://xcode.tips/additional-tools-pixie/)
 - [x] [Vim Mode: Find Current Word #53](https://xcode.tips/vim-mode-find-current-word/)
 - [x] [Search Scopes #54](https://xcode.tips/search-scopes/)
-- [ ] Add Errors/Warnings #55
-- [ ] Increase/Decrease dynamic type (CMD + Option +/-) #56 (https://twitter.com/ricobeck/status/1570335052604522496?s=20&t=OVA9lr2AFIxscRCnWK0ztg)
-- [ ] Xcode 15: Find Ancestor Types (in Find menu)
+- [x] [Add Errors/Warnings #55](https://xcode.tips/add-errors-warnings/)
+- [x] [Increase/Decrease dynamic type (CMD + Option +/-) #56](https://xcode.tips/simulator-dynamic-type/) (https://twitter.com/ricobeck/status/1570335052604522496?s=20&t=OVA9lr2AFIxscRCnWK0ztg)
+- [x] [Issues: Show Only Errors #57](https://xcode.tips/show-only-errors/)
+- [x] [Action Menu #58](https://xcode.tips/quick-actions/)
+- [x] [Xcode 15: Format to Multiple Lines (Ctrl + M) #59](https://xcode.tips/format-to-multiple-lines/)
+- [x] [Xcode 15: Find Ancestor Types (in Find menu) #60](https://xcode.tips/find-ancestor-types/)
 - [ ] Xcode 15: Find Conforming Types (in Find menu)
 - [ ] Vim Mode: Move Page Up/Down (Shift + Arrow Up/Down)
 - [ ] IB: Toggle Mini Map (Ctrl Shift + Cmd + M)
 - [ ] Repead tests (https://twitter.com/SteveBarnegren/status/1570022044347281408?s=20&t=OVA9lr2AFIxscRCnWK0ztg)
 - [ ] Previous/Next Window Tab
-- [ ] Xcode 15: Format to Multiple Lines (Ctrl + M)
-- [ ] Issues: Show Only Errors
 - [ ] Custom File Header (https://oleb.net/blog/2017/07/xcode-9-text-macros/)
 - [ ] Find In Project (Cmd + Shift + F)
 - [ ] Behavior: Open Search Tap
@@ -77,4 +78,3 @@
 - [ ] Quick Look In Debugger
 - [ ] Asset-Catalog: Device Differences
 - [ ] Snippet Library
-- [ ] Action Menu
