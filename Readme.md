@@ -78,4 +78,4 @@
 - [ ] Quick Look In Debugger
 - [ ] Asset-Catalog: Device Differences
 - [ ] Snippet Library
-- [ ] Project indentation setting (Max Christ, PM LinkedIn)
+- [ ] Project indentation setting (PM LinkedIn)
