@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.27)  14 FEB 2023 17:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.27)  22 JAN 2024 18:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -589,6 +589,139 @@ e jpg)
 Package pdftex.def Info: images/49_scheme_options_show_non_localized_strings.jp
 g  used on input line 84.
 (pdftex.def)             Requested size: 277.41438pt x 208.0602pt.
+<images/50_simulator_save_as_gif.jpg, id=50, 2232.34pt x 1674.255pt>
+File: images/50_simulator_save_as_gif.jpg Graphic file (type jpg)
+<use images/50_simulator_save_as_gif.jpg>
+Package pdftex.def Info: images/50_simulator_save_as_gif.jpg  used on input lin
+e 85.
+(pdftex.def)             Requested size: 277.41438pt x 208.0551pt.
+<images/51_ib_bounds_rectangles.jpg, id=51, 2232.34pt x 1674.255pt>
+File: images/51_ib_bounds_rectangles.jpg Graphic file (type jpg)
+<use images/51_ib_bounds_rectangles.jpg>
+Package pdftex.def Info: images/51_ib_bounds_rectangles.jpg  used on input line
+ 86.
+(pdftex.def)             Requested size: 277.41438pt x 208.0551pt.
+<images/52_additional_tools_pixie.jpg, id=52, 2232.34pt x 1674.255pt>
+File: images/52_additional_tools_pixie.jpg Graphic file (type jpg)
+<use images/52_additional_tools_pixie.jpg>
+Package pdftex.def Info: images/52_additional_tools_pixie.jpg  used on input li
+ne 87.
+(pdftex.def)             Requested size: 277.41438pt x 208.0551pt.
+<images/53_vim_mode_find_current_word.jpg, id=53, 2232.34pt x 1674.255pt>
+File: images/53_vim_mode_find_current_word.jpg Graphic file (type jpg)
+<use images/53_vim_mode_find_current_word.jpg>
+Package pdftex.def Info: images/53_vim_mode_find_current_word.jpg  used on inpu
+t line 88.
+(pdftex.def)             Requested size: 277.41438pt x 208.0551pt.
+<images/54_search_scopes.jpg, id=54, 2232.34pt x 1674.255pt>
+File: images/54_search_scopes.jpg Graphic file (type jpg)
+<use images/54_search_scopes.jpg>
+Package pdftex.def Info: images/54_search_scopes.jpg  used on input line 89.
+(pdftex.def)             Requested size: 277.41438pt x 208.0551pt.
+
+Overfull \hbox (15.0222pt too wide) in paragraph at lines 84--90
+[][][][] [][][]
+ []
+
+
+Overfull \hbox (15.0222pt too wide) in paragraph at lines 84--90
+[][][] [][][]
+ []
+
+
+Overfull \hbox (15.0222pt too wide) in paragraph at lines 84--90
+[][][] [][][] 
+ []
+
+<images/55_add_errors_warnings.jpg, id=55, 2232.34pt x 1674.255pt>
+File: images/55_add_errors_warnings.jpg Graphic file (type jpg)
+<use images/55_add_errors_warnings.jpg>
+Package pdftex.def Info: images/55_add_errors_warnings.jpg  used on input line 
+93.
+(pdftex.def)             Requested size: 277.41438pt x 208.0551pt.
+<images/56_simulator_dynamic_type.jpg, id=56, 2232.34pt x 1674.255pt>
+File: images/56_simulator_dynamic_type.jpg Graphic file (type jpg)
+<use images/56_simulator_dynamic_type.jpg>
+Package pdftex.def Info: images/56_simulator_dynamic_type.jpg  used on input li
+ne 94.
+(pdftex.def)             Requested size: 277.41438pt x 208.0551pt.
+<images/57_show_only_errors.jpg, id=57, 2232.34pt x 1674.255pt>
+File: images/57_show_only_errors.jpg Graphic file (type jpg)
+<use images/57_show_only_errors.jpg>
+Package pdftex.def Info: images/57_show_only_errors.jpg  used on input line 95.
+
+(pdftex.def)             Requested size: 277.41438pt x 208.0551pt.
+<images/58_quick_actions.jpg, id=58, 2232.34pt x 1674.255pt>
+File: images/58_quick_actions.jpg Graphic file (type jpg)
+<use images/58_quick_actions.jpg>
+Package pdftex.def Info: images/58_quick_actions.jpg  used on input line 96.
+(pdftex.def)             Requested size: 277.41438pt x 208.0551pt.
+<images/59_format_to_multiple_lines.jpg, id=59, 2232.34pt x 1674.255pt>
+File: images/59_format_to_multiple_lines.jpg Graphic file (type jpg)
+<use images/59_format_to_multiple_lines.jpg>
+Package pdftex.def Info: images/59_format_to_multiple_lines.jpg  used on input 
+line 97.
+(pdftex.def)             Requested size: 277.41438pt x 208.0551pt.
+<images/60_find_ancestor_types.jpg, id=60, 2232.34pt x 1674.255pt>
+File: images/60_find_ancestor_types.jpg Graphic file (type jpg)
+<use images/60_find_ancestor_types.jpg>
+Package pdftex.def Info: images/60_find_ancestor_types.jpg  used on input line 
+98.
+(pdftex.def)             Requested size: 277.41438pt x 208.0551pt.
+
+Overfull \hbox (15.0222pt too wide) in paragraph at lines 93--99
+[][][][] [][][]
+ []
+
+
+Overfull \hbox (15.0222pt too wide) in paragraph at lines 93--99
+[][][] [][][]
+ []
+
+
+Overfull \hbox (15.0222pt too wide) in paragraph at lines 93--99
+[][][] [][][] 
+ []
+
+<images/61_line_bookmark.jpg, id=61, 2232.34pt x 1674.255pt>
+File: images/61_line_bookmark.jpg Graphic file (type jpg)
+<use images/61_line_bookmark.jpg>
+Package pdftex.def Info: images/61_line_bookmark.jpg  used on input line 102.
+(pdftex.def)             Requested size: 277.41438pt x 208.0551pt.
+<images/62_bookmark_description.jpg, id=62, 2232.34pt x 1674.255pt>
+File: images/62_bookmark_description.jpg Graphic file (type jpg)
+<use images/62_bookmark_description.jpg>
+Package pdftex.def Info: images/62_bookmark_description.jpg  used on input line
+ 103.
+(pdftex.def)             Requested size: 277.41438pt x 208.0551pt.
+<images/63_quickly_open_bookmark.jpg, id=63, 2232.34pt x 1674.255pt>
+File: images/63_quickly_open_bookmark.jpg Graphic file (type jpg)
+<use images/63_quickly_open_bookmark.jpg>
+Package pdftex.def Info: images/63_quickly_open_bookmark.jpg  used on input lin
+e 104.
+(pdftex.def)             Requested size: 277.41438pt x 208.0551pt.
+<images/64_mark_bookmark_as_complete.jpg, id=64, 2232.34pt x 1674.255pt>
+File: images/64_mark_bookmark_as_complete.jpg Graphic file (type jpg)
+<use images/64_mark_bookmark_as_complete.jpg>
+Package pdftex.def Info: images/64_mark_bookmark_as_complete.jpg  used on input
+ line 105.
+(pdftex.def)             Requested size: 277.41438pt x 208.0551pt.
+<images/65_select_next_occurrence.jpg, id=65, 2232.34pt x 1674.255pt>
+File: images/65_select_next_occurrence.jpg Graphic file (type jpg)
+<use images/65_select_next_occurrence.jpg>
+Package pdftex.def Info: images/65_select_next_occurrence.jpg  used on input li
+ne 106.
+(pdftex.def)             Requested size: 277.41438pt x 208.0551pt.
+
+Overfull \hbox (15.0222pt too wide) in paragraph at lines 102--107
+[][][][] [][][]
+ []
+
+
+Overfull \hbox (15.0222pt too wide) in paragraph at lines 102--107
+[][][] [][][]
+ []
+
 [1{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./ima
 ges/01_move_focus.jpg> <./images/02_move_line_up_down.jpg> <./images/03_run_sto
 p.jpg> <./images/04_choose_scheme.jpg> <./images/05_editor_history.jpg> <./imag
@@ -613,22 +746,30 @@ bed_selected_text.jpg> <./images/39_fold_unfold.jpg> <./images/40_ib_guides.jpg
 _mode.jpg>] [8 <./images/43_toggle_changes_repos.jpg> <./images/44_improve_debu
 g_output.jpg> <./images/45_find_problematic_constraint.jpg> <./images/46_librar
 y_sfsymbols.jpg> <./images/47_simulator_add_images.jpg> <./images/48_open_hig.j
-pg>] [9 <./images/49_scheme_options_show_non_localized_strings.jpg>]
-(./cards.aux) ) 
+pg>] [9 <./images/49_scheme_options_show_non_localized_strings.jpg> <./images/5
+0_simulator_save_as_gif.jpg> <./images/51_ib_bounds_rectangles.jpg> <./images/5
+2_additional_tools_pixie.jpg> <./images/53_vim_mode_find_current_word.jpg> <./i
+mages/54_search_scopes.jpg>] [10 <./images/55_add_errors_warnings.jpg> <./image
+s/56_simulator_dynamic_type.jpg> <./images/57_show_only_errors.jpg> <./images/5
+8_quick_actions.jpg> <./images/59_format_to_multiple_lines.jpg> <./images/60_fi
+nd_ancestor_types.jpg>] [11 <./images/61_line_bookmark.jpg> <./images/62_bookma
+rk_description.jpg> <./images/63_quickly_open_bookmark.jpg> <./images/64_mark_b
+ookmark_as_complete.jpg> <./images/65_select_next_occurrence.jpg>] (./cards.aux
+) ) 
 Here is how much of TeX's memory you used:
- 2900 strings out of 480608
- 53298 string characters out of 5903630
- 300849 words of memory out of 5000000
- 18754 multiletter control sequences out of 15000+600000
+ 2996 strings out of 480608
+ 56730 string characters out of 5903630
+ 305849 words of memory out of 5000000
+ 18834 multiletter control sequences out of 15000+600000
  532338 words of font info for 24 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  43i,7n,46p,316b,272s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmr10.pfb>
-Output written on cards.pdf (9 pages, 14849666 bytes).
+</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+>
+Output written on cards.pdf (11 pages, 20184315 bytes).
 PDF statistics:
- 87 PDF objects out of 1000 (max. 8388607)
- 25 compressed objects within 1 object stream
+ 109 PDF objects out of 1000 (max. 8388607)
+ 29 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 246 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 326 words of extra memory for PDF output out of 10000 (max. 10000000)
 
