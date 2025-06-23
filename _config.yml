@@ -34,6 +34,7 @@ author:
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-loading-lazy
 
 header_pages:
     - about.md
